@@ -12,11 +12,18 @@ const errorHandler = require("./middleware/errorhandler");
 //middleware
 app.use(express.json());
 
+// routes
 app.use("/jwtapi/", router);
 app.use(notFound);
 app.use(errorHandler);
 
+// start
 port = process.env.PORT || 3000;
-app.listen(port, () => {
-  console.log("listening on port " + port);
-});
+const start = async () => {
+  try {
+    app.listen(port, console.log(`server is listening on ${port}`));
+  } catch (e) {
+    console.log(e);
+  }
+};
+start();

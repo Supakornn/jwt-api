@@ -19,7 +19,7 @@
 - Clone repo
 
 ```
-git clone https://github.com/H3X-T/jwt-api/
+git clone https://github.com/H3XxT/jwt-api/
 ```
 
 - Install package

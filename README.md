@@ -1,31 +1,15 @@
 # jwt-api
 
-<h3 align="center">JWT API, This project made with Node.js, Express.js, Jsonwebtoken</h3>
-<h3 align="center">
- <p>Just simple basic api, Didnt' deploy</p>
-</h3>
 
-
-## Install
-
-- Fork the repo
-- Clone repo
-
-```
-git clone https://github.com/H3XxT/jwt-api/
-```
-
-- Install package
-
+- Install
 ```
 npm install || yarn install
 ```
 
-- Edit example.env (remove exmaple to .env)
-
+- ENV
 ```
-PORT= (port, default is 3000)
-JWT_SECRET= (secret key)
+PORT= 
+JWT_SECRET= 
 ```
 
 - Start

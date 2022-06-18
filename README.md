@@ -5,15 +5,8 @@
  <p>Just simple basic api, Didnt' deploy</p>
 </h3>
 
-# Example
 
-![](https://cdn.discordapp.com/attachments/925063485556150292/954331387144585216/unknown.png)
-
-![](https://cdn.discordapp.com/attachments/925063485556150292/954331799406923786/unknown.png)
-
-## How to Install
-
-### Need Node.js to run this project
+## Install
 
 - Fork the repo
 - Clone repo

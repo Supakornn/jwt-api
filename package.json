@@ -5,7 +5,7 @@
     "express-async-errors": "^3.1.1",
     "http-status-codes": "^2.2.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.2.7"
+    "mongoose": "^6.4.6"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
